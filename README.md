@@ -1,2 +1,1 @@
-#  :collision: BOOTCAMO TQI FULLSTACK:computer:
-
+#  :collision: BOOTCAMP FULLSTACK TQI 💻
